@@ -1,0 +1,52 @@
+[
+  {
+    "code": "AES",
+    "name": "AES Corp.",
+    "P/E": 5.45
+  },
+  {
+    "code": "MO",
+    "name": "Altria Inc.",
+    "P/E": 8.0
+  },
+  {
+    "code": "CNC",
+    "name": "Centene Corp.",
+    "P/E": 9.6
+  },
+  {
+    "code": "CHTR",
+    "name": "Charter Inc (A) (Charter Communications)",
+    "P/E": 9.8
+  },
+  {
+    "code": "APA",
+    "name": "APA Corporation Registered Shs",
+    "P/E": 10.14
+  },
+  {
+    "code": "AFL",
+    "name": "Aflac Inc",
+    "P/E": 10.74
+  },
+  {
+    "code": "BRK.B",
+    "name": "Berkshire Hathaway Inc. B",
+    "P/E": 10.98
+  },
+  {
+    "code": "ALL",
+    "name": "Allstate Corp.",
+    "P/E": 11.35
+  },
+  {
+    "code": "CF",
+    "name": "CF Industries Holdings Inc",
+    "P/E": 12.66
+  },
+  {
+    "code": "BK",
+    "name": "Bank of New York Mellon",
+    "P/E": 13.26
+  }
+]

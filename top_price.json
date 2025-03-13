@@ -1,0 +1,52 @@
+[
+  {
+    "code": "BRK.B",
+    "name": "Berkshire Hathaway Inc. B",
+    "price": 42941.2
+  },
+  {
+    "code": "AMP",
+    "name": "Ameriprise Financial Inc",
+    "price": 41610.71
+  },
+  {
+    "code": "ADBE",
+    "name": "Adobe Inc.",
+    "price": 37983.91
+  },
+  {
+    "code": "AON",
+    "name": "Aon PLC Registered Shs",
+    "price": 34485.31
+  },
+  {
+    "code": "CHTR",
+    "name": "Charter Inc (A) (Charter Communications)",
+    "price": 30298.08
+  },
+  {
+    "code": "CAT",
+    "name": "Caterpillar Inc.",
+    "price": 29293.29
+  },
+  {
+    "code": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "price": 28161.16
+  },
+  {
+    "code": "ACN",
+    "name": "Accenture plc",
+    "price": 28094.46
+  },
+  {
+    "code": "ANSS",
+    "name": "ANSYS Inc.",
+    "price": 27501.11
+  },
+  {
+    "code": "AMGN",
+    "name": "Amgen Inc.",
+    "price": 27053.28
+  }
+]

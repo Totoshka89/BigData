@@ -1,0 +1,52 @@
+[
+  {
+    "code": "MMM",
+    "name": "3M Co.",
+    "growth": 86.07
+  },
+  {
+    "code": "T",
+    "name": "AT&T Inc. (AT & T Inc.)",
+    "growth": 57.67
+  },
+  {
+    "code": "BK",
+    "name": "Bank of New York Mellon",
+    "growth": 54.75
+  },
+  {
+    "code": "AVGO",
+    "name": "Broadcom",
+    "growth": 48.97
+  },
+  {
+    "code": "BSX",
+    "name": "Boston Scientific Corp.",
+    "growth": 46.51
+  },
+  {
+    "code": "CHRW",
+    "name": "C.H. Robinson Worldwide Inc.",
+    "growth": 41.41
+  },
+  {
+    "code": "BKR",
+    "name": "Baker Hughes Inc.",
+    "growth": 40.16
+  },
+  {
+    "code": "AAPL",
+    "name": "Apple Inc.",
+    "growth": 40.03
+  },
+  {
+    "code": "CBRE",
+    "name": "CBRE Group Inc. (A)",
+    "growth": 38.24
+  },
+  {
+    "code": "MO",
+    "name": "Altria Inc.",
+    "growth": 38.02
+  }
+]
